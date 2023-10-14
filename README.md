@@ -10,15 +10,22 @@
 [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@masonbrandi66)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masonbrandi66@gmail.com)
 
-#### Featured Projects 💻
+
+<h2>Featured Projects 💻</h2>
+
 **WildSol Collective**
+
 A Full Stack yoga studio website to sign-up for classes and events.
 
+
 **BookWorm**
-A literary app that helps track progress towards and achieve literary goals
+
+A literary app that helps track progress towards and achieve literary goals.
+
 
 **Explore Outside, Colorado Edition**
-A beginners guide to explore the great outdoors in Colorado
+
+A beginners guide to explore the great outdoors in Colorado.
 
 <!--
 **brandimason/brandimason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
