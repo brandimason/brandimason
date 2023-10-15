@@ -5,7 +5,10 @@
 #### Skills 💪
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,py,flask,sqlite,tailwind,html,css,git,gitlab,postman,vscode)](https://skillicons.dev)
 
-#### Get in Touch 📬
+---
+
+<h2>Get in Touch 📬</h2>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandimasonco/)
 [![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@masonbrandi66)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masonbrandi66@gmail.com)
@@ -13,15 +16,18 @@
 
 <h2>Featured Projects 💻</h2>
 
+
 **WildSol Collective**
 
 A Full Stack yoga studio website to sign-up for classes and events.
 
+---
 
 **BookWorm**
 
 A literary app that helps track progress towards and achieve literary goals.
 
+---
 
 **Explore Outside, Colorado Edition**
 
