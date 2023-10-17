@@ -38,6 +38,7 @@ A beginners guide to explore the great outdoors in Colorado.
 **brandimason/brandimason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - going to add demos & links to repo on here
+- want to add different logos for the get in touch part
 
 
 Here are some ideas to get you started:
