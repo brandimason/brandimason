@@ -2,7 +2,8 @@
 <p align="center">Pronouns: She/Her</p>
 <p align="center">A full stack software engineer with a passion for design and user interaction. As an ambitious self-sufficient learner, I am fascinated with challenging myself on a daily basis in order to better understand the world around me. I love to create! Being a software engineer allows me to connect and communicate with an audience through my passion of creating technological solutions by utilizing my problem solving, logical and creative skills.</p>
 
-#### Skills 💪
+<h2> Skills 💪 </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,py,flask,sqlite,tailwind,html,css,git,gitlab,postman,vscode)](https://skillicons.dev)
 
 ---
