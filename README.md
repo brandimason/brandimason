@@ -17,22 +17,34 @@
 
 <h2>Featured Projects 💻</h2>
 
+**Tic-Tac-Toe**
+
+A classic game of strategy and wit, where two players compete to achieve a three-in-a-row sequence in a 3x3 grid.
+
+---
+
+**Ski Days**
+
+A website providing weather information for North American resorts, assisting enthusiasts in planning their ski trips.
+
+---
+
 
 **WildSol Collective**
 
-A Full Stack yoga studio website to sign-up for classes and events.
+A Full Stack yoga studio website, allowing users to effortlessly sign up for classes and events.
 
 ---
 
 **BookWorm**
 
-A literary app that helps track progress towards and achieve literary goals.
+A literary app designed to help book lovers track progress towards and achieve literary goals.
 
 ---
 
 **Explore Outside, Colorado Edition**
 
-A beginners guide to explore the great outdoors in Colorado.
+A beginners guide tailored to those eager to explore the great outdoors in Colorado.
 
 <!--
 **brandimason/brandimason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
